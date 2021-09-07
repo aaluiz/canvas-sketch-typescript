@@ -1,5 +1,5 @@
 # canvas-sketch-typescript
-Project to Start Canvas Sketch witch Typescript 
+Project to Start Canvas Sketch with Typescript 
 
 ## Creative Coder Starter Pack - How to use 
 In folder of project, on terminal, run: 
