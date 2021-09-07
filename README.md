@@ -2,6 +2,10 @@
 Project to Start Canvas Sketch with Typescript 
 
 ## Creative Coder Starter Pack - How to use 
+To Install
+```sh
+npm i
+```
 In folder of project, on terminal, run: 
 ```sh
 npm start
